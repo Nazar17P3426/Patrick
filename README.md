@@ -1,3 +1,2 @@
-I'm not responsible for any damage
-
-USE VMware or VirtualBox
+# Patrick
+C# creepypasta no GDI trojan by LowoTech
